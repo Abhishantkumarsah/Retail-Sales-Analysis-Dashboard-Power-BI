@@ -115,7 +115,7 @@ Planned dashboard components include:
 The dashboard screenshot will be added here after the Power BI report is completed.
 
 
-![Retail Sales Analysis Dashboard]("D:\DataAnalyst\swynexIntern\Task1\retail_salesd_AnalysisDashboard.png")
+![Retail Sales Analysis Dashboard](https://github.com/Abhishantkumarsah/Retail-Sales-Analysis-Dashboard-Power-BI/blob/main/retail_salesd_AnalysisDashboard.png)
 
 ## 📊 Key Performance Indicators (KPIs)
 
